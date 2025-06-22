@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyjidelnicek"
+version = "0.1.0"
+description = "Unofficial Python library for downloading and parsing menus from Strava.cz"
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Václav Jirka", email = "vaclav.jirka@icloud.com" }
+]
+keywords = [
+    "strava.cz",
+    "jidelnicek", 
+    "menu",
+    "skolni-jidelna",
+    "kantyna",
+    "parser",
+    "xml",
+    "alergeny",
+    "strava5",
+    "python-library",
+    "cafeteria",
+    "school-canteen",
+    "canteen",
+]
+classifiers = [
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Text Processing :: Markup :: XML",
+    "Topic :: Education"
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.25.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/VaclavJirka/pyjidelnicek"
+Repository = "https://github.com/VaclavJirka/pyjidelnicek"
+Issues = "https://github.com/VaclavJirka/pyjidelnicek/issues"
+"Contact" = "mailto:vaclav.jirka@icloud.com"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["pyjidelnicek*"]
+exclude = ["tests*"]
+
+[tool.setuptools.package-data]
+"pyjidelnicek" = ["allergens.json"]

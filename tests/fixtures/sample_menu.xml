@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jidelnicky>
+  <den datum="23-06-2025">
+    <jidlo nazev="Celerová s krutony" druh="Polévka " alergeny="01a-Obiloviny - pšenice,07 -Mléko,09 -Celer" />
+    <jidlo nazev="Čočka na kyselo, jogurtový párek, chléb, steril. okurka, zeleninový salát" druh="Oběd 1 " alergeny="" />
+    <jidlo nazev="Čočka na kyselo, vejce, chléb, steril. okurka, zeleninový salát" druh="Oběd 2 " alergeny="" />
+    <jidlo nazev="čaj, mléko, voda" druh="Doplněk " alergeny="" />
+  </den>
+  <den datum="24-06-2025">
+    <jidlo nazev="Hráškový krém" druh="Polévka " alergeny="01a-Obiloviny - pšenice,07 -Mléko" />
+    <jidlo nazev="Smažený vepřový řízek, vařené brambory, zeleninový salát" druh="Oběd 1 " alergeny="01a-Obiloviny - pšenice,03 -Vejce,07 -Mléko" />
+    <jidlo nazev="Bezmasá varianta, vařené brambory, zeleninový salát" druh="Oběd 2 " alergeny="07 -Mléko" />
+    <jidlo nazev="čaj, mléko, voda" druh="Doplněk " alergeny="" />
+  </den>
+  <den datum="25-06-2025">
+    <jidlo nazev="Slepičí s masem a nudlemi" druh="Polévka " alergeny="01a-Obiloviny - pšenice,03 -Vejce,09 -Celer" />
+    <jidlo nazev="Kynuté knedlíky plněné ovocem, sypané strouhaným tvarohem, cukrem a omaštěné máslem" druh="Oběd 1 " alergeny="01a-Obiloviny - pšenice,03 -Vejce,07 -Mléko" />
+    <jidlo nazev="OBED B" druh="Oběd 2 " alergeny="" />
+    <jidlo nazev="čaj, mléko, voda" druh="Doplněk " alergeny="" />
+  </den>
+  <den datum="26-06-2025">
+    <jidlo nazev="Hovězí s drobením" druh="Polévka " alergeny="01a-Obiloviny - pšenice,03 -Vejce,09 -Celer" />
+    <jidlo nazev="Masové koule, rajská omáčka, houskové knedlíky, kolínka" druh="Oběd 1 " alergeny="01a-Obiloviny - pšenice,03 -Vejce,07 -Mléko,09 -Celer" />
+    <jidlo nazev="OBED B" druh="Oběd 2 " alergeny="" />
+    <jidlo nazev="čaj, mléko, voda" druh="Doplněk " alergeny="" />
+  </den>
+  <den datum="27-06-2025">
+    <jidlo nazev="Rajčatová" druh="Polévka " alergeny="01a-Obiloviny - pšenice,07 -Mléko" />
+    <jidlo nazev="Svíčková na smetaně, houskové knedlíky" druh="Oběd 1 " alergeny="01a-Obiloviny - pšenice,03 -Vejce,07 -Mléko" />
+    <jidlo nazev="Bezmasá varianta, vařené brambory, zeleninový salát" druh="Oběd 2 " alergeny="07 -Mléko" />
+    <jidlo nazev="čaj, mléko, voda" druh="Doplněk " alergeny="" />
+  </den>
+</jidelnicky>
