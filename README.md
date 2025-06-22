@@ -120,7 +120,7 @@ MIT License - open source code
 
 ## ⚠️ Disclaimer
 
-This is an **unofficial library**. Author is not affiliated with **Strava.cz** company.
+This is an **unofficial library**. Author is not affiliated with **Strava.cz**.
 
 **Use at your own risk** - please respect Strava.cz terms of service.
 
