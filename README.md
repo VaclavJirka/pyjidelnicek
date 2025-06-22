@@ -17,6 +17,7 @@ pip install git+https://github.com/VaclavJirka/pyjidelnicek.git
 You need to find out, which Stravné version is your cafeteria using. The easiest way is to check those urls:
 - Strava 5: `https://www.strava.cz/strava5/Jidelnicky/XML?zarizeni=<cafeteria_id>`
 - Strava 4: `https://www.strava.cz/foxisapi/foxisapi.dll/istravne.istravne.process?xmljidelnickyA&zarizeni=<cafeteria_id>`
+
 You can determine the version by trying both URLs with your cafeteria ID. The one that returns a valid XML response is the version you should use.
 
 ## 🚀 Quick Start - Strava.cz API

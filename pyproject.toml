@@ -50,7 +50,7 @@ dependencies = [
 Homepage = "https://github.com/VaclavJirka/pyjidelnicek"
 Repository = "https://github.com/VaclavJirka/pyjidelnicek"
 Issues = "https://github.com/VaclavJirka/pyjidelnicek/issues"
-"Contact" = "mailto:vaclav.jirka@icloud.com"
+"Contact" = "https://github.com/VaclavJirka"
 
 [tool.setuptools.packages.find]
 where = ["."]
